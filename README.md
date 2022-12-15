@@ -63,6 +63,6 @@ pkg install python
 
 cd prank-hacking
 
-python3 Prank Hacking.py
+python3 prank-hacking.py
 
 # Follow me ...
