@@ -59,7 +59,7 @@ pkg update && pkg upgrade -y
 
 pkg install git
 
-pkg install python
+pkg install python3
 
 cd prank-hacking
 
